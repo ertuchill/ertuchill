@@ -13,7 +13,9 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-<a href="www.linkedin.com/in/ahmet-ertuğrul-çil-8a1655298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmet Ertuğrul" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmet-ertugrul-cil-8a1655298" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmet Ertuğrul" height="30" width="40" />
+</a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ertuchill&label=Profile%20views&color=0e75b6&style=flat" alt="ertuchill" /> </p>
