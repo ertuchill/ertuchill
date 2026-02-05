@@ -6,7 +6,7 @@
 
 ### 💻 Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,javascript,js,html,css,cpp,git,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,cpp,git,vscode" />
 </p>
 
 ---
