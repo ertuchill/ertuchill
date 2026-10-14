@@ -1,6 +1,6 @@
 # Hi, I'm Ahmet Ertuğrul Çil
 
-### 2nd Year Computer Engineering Student at Hacettepe University
+### 3rd Year Computer Engineering Student at Hacettepe University(Currently at Exchange for a semester in the University of Freiburg)
 
 ---
 
